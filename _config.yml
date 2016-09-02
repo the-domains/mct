@@ -5,14 +5,14 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.1971326
+  saturation: 0.6523297
   brandStrength: 1
   lightness: 0.7168459
   brandColors:
@@ -26,15 +26,15 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: mct
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4994775580707937
-layout_spectrum: 0.9814979683142155
+typography_spectrum: 0.4390681
+layout_spectrum: 0.1774193
